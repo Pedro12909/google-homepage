@@ -1,0 +1,10 @@
+img {
+	height: auto;
+	width: auto;
+	max-height: 90px;
+	display: block;
+	margin: 200px auto 20px auto;
+}
+input {
+	margin-bottom: 30px;
+}
