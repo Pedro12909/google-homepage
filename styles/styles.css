@@ -5,6 +5,33 @@ img {
 	display: block;
 	margin: 200px auto 20px auto;
 }
+
 input {
 	margin-bottom: 30px;
+
+}
+
+li {
+	display: inline;
+	margin-right: 10px;
+}
+
+a {
+	font-size: 15px;
+	color: black;
+}
+
+#buttons {
+	margin-bottom: 180px;
+}
+
+#navbar {
+	margin-right: 20px;
+	margin-left: 950px;
+}
+
+#footer-right {
+	margin-left: 1050px;
+	margin-right: 0;
+	margin-bottom: 70px;
 }
